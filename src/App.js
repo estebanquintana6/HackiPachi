@@ -4,7 +4,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                My App Component
+                OLA K ASE yeeeeeeeaaaaa
       </div>
         );
     }
